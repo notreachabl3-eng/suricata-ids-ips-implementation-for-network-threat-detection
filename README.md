@@ -192,15 +192,19 @@ Suricata-IDS-IPS/
 
 ### Nmap Detection
 
-![Web Enumeration Detection](screenshots/nmap-detection1.png)
-![Web Enumeration Detection](screenshots/nmap-detection2.png)
+![Nmap Detection](screenshots/nmap-detection1.png)
+![Nmap Detection](screenshots/nmap-detection2.png)
 
 ---
 
 ### Web Enumeration Detection
 
-![Nmap Detection](screenshots/web-detection1.png)
-![Nmap Detection](screenshots/web-detection2.png)
+![Web Enumeration Detection](screenshots/web-detection1.png)
+![Web Enumeration Detection](screenshots/web-detection2.png)
+![Web Enumeration Detection](screenshots/web-detection3.png)
+![Web Enumeration Detection](screenshots/web-detection4.png)
+![Web Enumeration Detection](screenshots/web-detection5.png)
+
 
 ---
 

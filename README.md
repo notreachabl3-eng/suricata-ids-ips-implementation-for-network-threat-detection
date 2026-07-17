@@ -160,8 +160,8 @@ Suricata-IDS-IPS/
 │   └── IPS_Blocking.png
 │
 └── Rules/
-    ├── ids.rules
-    └── ips.rules
+    ├── ids-rules.md
+    └── ips-rules.md
 
 ```
 
